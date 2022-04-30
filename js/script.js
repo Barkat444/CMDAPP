@@ -12,3 +12,12 @@ navbarToggle.addEventListener("click", toggleNavbarVisibility);
 
 navbarLinksContainer.addEventListener("click", (e) => e.stopPropagation());
 navbarMenu.addEventListener("click", toggleNavbarVisibility);
+
+
+//variable declerations
+
+// const selectElement = document.getElementById("TypeOfConcrete").value;
+
+// console.log(selectElement);
+
+
