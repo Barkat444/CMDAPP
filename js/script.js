@@ -21,3 +21,23 @@ navbarMenu.addEventListener("click", toggleNavbarVisibility);
 // console.log(selectElement);
 
 
+// function selectedValue(){
+//   var selectElement = document.getElementById("TypeOfConcrete").value;
+//   alert(selectElement);
+// }
+
+// function selectedValue(){
+//   var selectElement = document.getElementById("TypeOfConcrete").value;
+//   if(selectElement!="SELECT"){
+//     alert(selectElement);
+//   }
+// }
+
+
+// Section1
+
+// var typeOfConcrete = () => {
+//   var selectedElement = document.getElementById("TypeOfConcrete").value;
+//   alert(selectedElement);
+// }
+
